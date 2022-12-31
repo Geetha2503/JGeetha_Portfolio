@@ -296,7 +296,7 @@ img {
 
 /* contact section */
 #contact-header {
-  background: url('../images/Contact-head.jpeg') no-repeat;
+  background: url('../images/contact-head.jpeg') no-repeat;
   background-size: cover;
   background-position: center;
   min-height: 600px;
@@ -455,4 +455,7 @@ footer a:hover {
 }
 .UG-P{
   text-align:center;
+}
+.fc1{
+  margin-left: 35% !important;
 }
